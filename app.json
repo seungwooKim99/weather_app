@@ -4,6 +4,13 @@
     "slug": "weather-app",
     "privacy": "public",
     "sdkVersion": "36.0.0",
+    "ios": {
+      "bundleIdentifier": "com.segunwookim99.weather_app"
+    },
+    "android": {
+      "package": "com.segunwookim99.weather_app",
+      "versionCode": 1
+    },
     "platforms": [
       "ios",
       "android",
